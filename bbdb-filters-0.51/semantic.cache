@@ -1,0 +1,21 @@
+;; Object bbdb-filters-0.51/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "bbdb-filters-0.51/"
+  :tables (list 
+   (semanticdb-table "bbdb-names.el"
+    :major-mode 'emacs-lisp-mode
+    :tags '(("bbdb-names-input" function (:user-visible-flag t) nil [1092 1183]) ("bbdb-names-append" function (:user-visible-flag t) nil [1185 1516]) ("bbdb-names-process-line" function (:user-visible-flag t) nil [1519 2230]) ("bbdb-names-blank" function (:user-visible-flag t) nil [2233 2377]) ("setq" code nil nil [2410 2477]) ("setq" code nil nil [2478 2555]) ("bbdb-a-namesOutGen" function (:arguments ("records")) nil [2558 3647]) ("setq" code nil nil [3683 3913]) ("bbdb-a-namesOutAppend" function (:arguments ("records")) nil [3915 5061]) ("setq" code nil nil [5097 5333]) ("bbdb-names" package nil nil [5335 5356]))
+    :file "bbdb-names.el"
+    :pointmax 5359
+    )
+   (semanticdb-table "bbdb-vcard.el"
+    :major-mode 'emacs-lisp-mode
+    :tags '(("setq" code nil nil [1121 1189]) ("setq" code nil nil [1190 1258]) ("bbdb-a-vcardsOutGen" function (:arguments ("records")) nil [1261 2616]) ("setq" code nil nil [2652 2884]) ("bbdb-a-vcardsOutAppend" function (:arguments ("records")) nil [2886 4139]) ("setq" code nil nil [4175 4413]) ("bbdb-vcard" package nil nil [4415 4436]))
+    :file "bbdb-vcard.el"
+    :pointmax 4439
+    )
+   )
+  :file "semantic.cache"
+  :semantic-tag-version "2.0beta3"
+  :semanticdb-version "2.0beta3"
+  )
